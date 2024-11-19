@@ -1,0 +1,134 @@
+.img {
+    width: 150px;
+    height: 50px;
+}
+
+.list {
+    color: rgb(208, 107, 20);
+}
+
+.backgroundimg {
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://i.pinimg.com/originals/b9/fd/23/b9fd233606d7425eda2390a75606fe16.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center {
+    width: 700px;
+    height: 300px;
+    margin: auto;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    color: rgb(232, 136, 10);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+span {
+    color: rgb(208, 120, 6);
+}
+
+.btn1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: rgba(235, 117, 7, 0.91);
+    color: #fff;
+    font-weight: 500;
+    border: none;
+    padding: 10px 30px;
+}
+
+.bgcolor {
+    background-color: rgb(244, 251, 249);
+}
+
+.btn2 {
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: rgb(27, 198, 8);
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+.border1 {
+    border-top: 5px solid rgb(27, 198, 8);
+}
+
+.ullist li {
+    list-style: none;
+    color: rgb(206, 120, 7);
+    margin-right: 140px;
+}
+
+h5 {
+    font-weight: 500;
+}
+
+i {
+    background-color: rgb(174, 173, 173);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.btn3 {
+    color: rgb(223, 135, 3);
+    background-color: transparent;
+    border: none;
+}
+
+.icon {
+    background-color: transparent;
+    color: rgb(223, 135, 3);
+}
+
+.btn4 {
+    background-color: #fff;
+    color: rgb(8, 219, 8);
+    padding: 10px 20px;
+    border: none;
+    font-weight: 600;
+}
+
+.icons {
+    background-color: rgb(8, 219, 8);
+    color: rgb(246, 249, 246);
+    padding: 5px 5px;
+    font-size: 15px;
+}
+
+.icons1 {
+    background-color: rgb(250, 249, 246);
+    color: rgb(232, 128, 9);
+    padding: 5px 5px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.dropdown1 li a {
+    background-color: rgb(8, 219, 8);
+    color: #fff;
+}
